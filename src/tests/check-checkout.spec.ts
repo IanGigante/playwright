@@ -5,7 +5,7 @@ import { Products } from '../pages/products';
 import { Cart } from '../pages/cart';
 import { Checkout } from '../pages/checkout';
 
-test.describe("Add to cart for Saucedemo", ()=>{
+test.describe("Checkout for Saucedemo", ()=>{
     let products : Products;
     let cart : Cart;
     let checkout : Checkout;
