@@ -18,7 +18,7 @@ Before running the tests, make sure you have the following installed:
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/your-username/playwright-tests.git
+   git clone https://github.com/IanGigante/playwright.git
 
 2. Navigate to the project directory:
    ```bash
@@ -26,7 +26,7 @@ Before running the tests, make sure you have the following installed:
    
 3. Install dependencies
    ```bash
-   git clone https://github.com/your-username/playwright-tests.git
+   npm install
 
 ## Running tests locally
 1. Via UI
