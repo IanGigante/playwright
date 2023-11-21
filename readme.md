@@ -32,14 +32,16 @@ Before running the tests, make sure you have the following installed:
 1. Via UI
    ```bash
    npm run test-ui
+   
 2. Via Headless
     ```bash
    npm run test
 
 
 ## Accessing HTML report
-1 Using command line
+1. Using command line
 ```bash
-   npx playwright show-report
-2. Using file expolerer or IDE, navigate playwright-report/index.html
+npx playwright show-report
+
+2. Using file explorer or IDE, navigate playwright-report/index.html
 
